@@ -1,0 +1,5 @@
+## Setup Instructions
+
+1. Copy `appsettings.example.json` to `appsettings.json`:
+   ```sh
+   cp appsettings.example.json appsettings.json
