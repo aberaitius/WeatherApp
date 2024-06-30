@@ -1,0 +1,21 @@
+# Ignore node_modules directories
+node_modules/
+weather-app/node_modules/
+
+# Ignore environment configuration files
+WeatherApi/appsettings.json
+
+# Ignore build output directories
+dist/
+out/
+
+# Ignore logs
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
