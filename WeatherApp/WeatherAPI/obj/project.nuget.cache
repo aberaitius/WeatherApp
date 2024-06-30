@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJSc2xsDeSc=",
+  "dgSpecHash": "BE2BO2N5rf0=",
   "success": true,
-  "projectFilePath": "/Users/facere/Fun/20Projects/WeatherApp/WeatherAPI/WeatherAPI.csproj",
+  "projectFilePath": "/Users/facere/Fun/20Projects/WeatherApp/WeatherApp/WeatherAPI/WeatherAPI.csproj",
   "expectedPackageFiles": [
     "/Users/facere/.nuget/packages/microsoft.aspnetcore.openapi/8.0.6/microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "/Users/facere/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

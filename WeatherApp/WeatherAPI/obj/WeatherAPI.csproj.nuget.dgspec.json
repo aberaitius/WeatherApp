@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/facere/Fun/20Projects/WeatherApp/WeatherAPI/WeatherAPI.csproj": {}
+    "/Users/facere/Fun/20Projects/WeatherApp/WeatherApp/WeatherAPI/WeatherAPI.csproj": {}
   },
   "projects": {
-    "/Users/facere/Fun/20Projects/WeatherApp/WeatherAPI/WeatherAPI.csproj": {
+    "/Users/facere/Fun/20Projects/WeatherApp/WeatherApp/WeatherAPI/WeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/facere/Fun/20Projects/WeatherApp/WeatherAPI/WeatherAPI.csproj",
+        "projectUniqueName": "/Users/facere/Fun/20Projects/WeatherApp/WeatherApp/WeatherAPI/WeatherAPI.csproj",
         "projectName": "WeatherAPI",
-        "projectPath": "/Users/facere/Fun/20Projects/WeatherApp/WeatherAPI/WeatherAPI.csproj",
+        "projectPath": "/Users/facere/Fun/20Projects/WeatherApp/WeatherApp/WeatherAPI/WeatherAPI.csproj",
         "packagesPath": "/Users/facere/.nuget/packages/",
-        "outputPath": "/Users/facere/Fun/20Projects/WeatherApp/WeatherAPI/obj/",
+        "outputPath": "/Users/facere/Fun/20Projects/WeatherApp/WeatherApp/WeatherAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/facere/.nuget/NuGet/NuGet.Config"
